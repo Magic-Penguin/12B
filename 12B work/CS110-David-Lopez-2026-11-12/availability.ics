@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//CS110//Development Road//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:908464db-32d9-483e-8a6f-6b08a951cc33@cs110.addp2p.com
+DTSTAMP:20261112T233443Z
+DTSTART;TZID=America/Los_Angeles:20261110T150000
+DTEND;TZID=America/Los_Angeles:20261110T190000
+SUMMARY:CS110 project availability
+DESCRIPTION:Before a different class\, I can be on campus for in-person brainstorming/collaboration.
+END:VEVENT
+BEGIN:VEVENT
+UID:d2a6aaa8-1b96-45bb-b731-ded1125b764b@cs110.addp2p.com
+DTSTAMP:20261112T233443Z
+DTSTART;TZID=America/Los_Angeles:20261112T150000
+DTEND;TZID=America/Los_Angeles:20261112T190000
+SUMMARY:CS110 project availability
+DESCRIPTION:Before a different class\, I can be on campus for in-person brainstorming/collaboration.
+END:VEVENT
+BEGIN:VEVENT
+UID:00b28abf-e776-4854-98a3-cb7cb7758a31@cs110.addp2p.com
+DTSTAMP:20261112T233443Z
+DTSTART;TZID=America/Los_Angeles:20261109T100000
+DTEND;TZID=America/Los_Angeles:20261109T133000
+SUMMARY:CS110 project availability
+DESCRIPTION:Before a different class\, I can be on campus for in-person brainstorming/collaboration.
+END:VEVENT
+END:VCALENDAR
